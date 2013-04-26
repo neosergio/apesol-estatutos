@@ -1,4 +1,7 @@
 apesol-estatutos
 ================
 
-Estatutos APESOL
+Estatutos de APESOL.
+Versión Web.
+
+
