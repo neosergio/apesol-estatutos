@@ -2,6 +2,7 @@ apesol-estatutos
 ================
 
 Estatutos de APESOL.
-Versión Web.
 
-
+Versión Web gracias a:
+- Sergio Infante
+- Walter Pabón 
