@@ -2,95 +2,215 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Estatutos APESOL</title>
-	<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
+	<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="estatutos.css">
+	<link rel="stylesheet" href="imprimir.css" media="print">
+	<link rel="shortcut icon" href="images/apesol_icon.png">
+	<link rel="author" href="humans.txt">
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="http://cdn.jquerytools.org/1.2.7/full/jquery.tools.min.js"></script>
 	<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 </head>
-<body>
-	<div id="titulo-estatuto">
-		<h1>Estatuto de la Asociación Civil Asociación Peruana de Software Libre y Código Abierto - APESOL</h1>
-	</div>
-	<div id="seccion-primera" class="seccion">
-        <h2 class="titulo-seccion">Sección Primera</h2>
-        <div id="titulo1-la_asociacion" class="titulo">
-            <h3>Titulo I <small>La Asociación - De la denominación, duración y domicilio</small> </h3>
-            <div id="articulo1" class="articulo"><h4>Articulo Primero</h4></div>
-            <div id="articulo2" class="articulo"><h4>Articulo Segundo</h4></div>
-            <div id="articulo3" class="articulo"><h4>Articulo Tercero</h4></div>
-        </div>
-        <div id="titulo2-objeto_y_fines" class="titulo">
-            <h3>Titulo II <small>Del objeto y fines</small></h3>
-            <div id="articulo4" class="articulo"><h4>Articulo cuarto</h4></div>
-            <div id="articulo5" class="articulo"><h4>Articulo quinto</h4></div>
-            <div id="articulo6" class="articulo"><h4>Articulo sexto</h4></div>
-        </div>
-        <div id="titulo3-patrimonio_social" class="titulo">
-            <h3>Titulo III <small>Patrimonio Social</small></h3>
-            <div id="articulo7" class="articulo"><h4>Articulo séptimo</h4></div>
-            <div id="articulo8" class="articulo"><h4>Articulo octavo</h4></div>
-            <div id="articulo9" class="articulo"><h4>Articulo noveno</h4></div>
-            <div id="articulo10" class="articulo"><h4>Articulo decimo</h4></div>
-        </div>
+<body>  
+  <section class="container-fluid">
+    <div class="row-fluid">
+        <aside class="span4" >
+            <ul id="navbar" class="nav nav-pills nav-stacked nav-list affix-top" data-spy="affix" data-offset-top="15">
+                <li><a href="#titulo-estatuto" class="nav-header">Estatutos APESOL</a></li>
+                <li><a href="#seccion-primera" class="nav-header">Sección primera</a></li>
+                <li><a href="#titulo1-la_asociación">Título I - La Asociación, de la denominación, duración y domicilio</a></li>
+                <li><a href="#titulo2-objeto_y_fines">Título II - Del objeto y fines</a></li>
+                <li><a href="#titulo3-patrimonio_social">Título III - Patrimonio Social</a></li>
+                <li><a href="#seccion-segunda" class="nav-header">Sección Segunda: De los Asociados</a></li>
+                <li><a href="#titulo1-los_asociados">Título I - Los asociados: sus deberes y derechos</a></li>
+                <li><a href="#titulo2-aportaciones_asociados">Título II - Aportaciones de los Asociados</a></li>
+                <li><a href="#titulo3-suspension_asociado">Título III - Suspensión, exclusión y perdida de la condición de asociado</a></li>
+                <li><a href="#seccion-tercera" class="nav-header">Sección Tercera: Organos de la asociación</a></li>
+                <li><a href="#titulo1-asamblea_general_asociados">Título I - Asamblea General de Asociados</a></li>
+                <li><a href="#titulo2-consejo_directivo">Título II - Consejo Directivo</a></li>
+                <li><a href="#titulo3-disolucion">Título III - De la Disolución</a></li>
+                <li><a href="#escaneados" class="nav-header">Hojas escaneadas del estatuto en físico</a></li>
+            </ul>
+        </aside>    
+        <section class="span8">
+            <div id="titulo-estatuto" class="hero-unit">
+                <h1>Estatuto de la Asociación Civil Asociación Peruana de Software Libre y Código Abierto <img src="images/apesol.png" alt=""></h1>
+            </div>
+            <div id="seccion-primera" class="seccion">
+                <h2 class="titulo-seccion">Sección Primera</h2>
+                <div id="titulo1-la_asociacion" class="titulo">
+                    <h3>Titulo I <small>La Asociación - De la denominación, duración y domicilio</small> </h3>
+                    <div id="articulo1" class="articulo"><h4>Articulo Primero</h4></div>
+                    <div id="articulo2" class="articulo"><h4>Articulo Segundo</h4></div>
+                    <div id="articulo3" class="articulo"><h4>Articulo Tercero</h4></div>
+                </div>
+                <div id="titulo2-objeto_y_fines" class="titulo">
+                    <h3>Titulo II <small>Del objeto y fines</small></h3>
+                    <div id="articulo4" class="articulo"><h4>Articulo cuarto</h4></div>
+                    <div id="articulo5" class="articulo"><h4>Articulo quinto</h4></div>
+                    <div id="articulo6" class="articulo"><h4>Articulo sexto</h4></div>
+                </div>
+                <div id="titulo3-patrimonio_social" class="titulo">
+                    <h3>Titulo III <small>Patrimonio Social</small></h3>
+                    <div id="articulo7" class="articulo"><h4>Articulo séptimo</h4></div>
+                    <div id="articulo8" class="articulo"><h4>Articulo octavo</h4></div>
+                    <div id="articulo9" class="articulo"><h4>Articulo noveno</h4></div>
+                    <div id="articulo10" class="articulo"><h4>Articulo decimo</h4></div>
+                </div>
+            </div>
+            <div id="seccion-segunda" class="seccion">
+                <h2 class="titulo-seccion">Sección Segunda <small>De los asociados</small></h2>
+                <div id="titulo1-los_asociados" class="titulo">
+                    <h3>Titulo I <small>Los asociados: sus deberes y derechos</small> </h3>
+                    <div id="articulo11" class="articulo"><h4>Articulo Decimo primero</h4></div>
+                    <div id="articulo12" class="articulo"><h4>Articulo Decimo Segundo</h4></div>
+                    <div id="articulo13" class="articulo"><h4>Articulo Decimo Tercero</h4></div>
+                    <div id="articulo14" class="articulo"><h4>Articulo Decimo Cuarto</h4></div>
+                    <div id="articulo15" class="articulo"><h4>Articulo Decimo Quinto</h4></div>
+                </div>
+                <div id="titulo2-aportaciones_asociados" class="titulo">
+                    <h3>Titulo II <small>Aportaciones de los Asociados</small></h3>
+                    <div id="articulo16" class="articulo"><h4>Articulo Decimo Sexto</h4></div>
+                    <div id="articulo17" class="articulo"><h4>Articulo Decimo Septimo</h4></div>
+                    <div id="articulo18" class="articulo"><h4>Articulo Decimo Octavo</h4></div>
+                    <div id="articulo19" class="articulo"><h4>Articulo Decimo Noveno</h4></div>
+                    <div id="articulo20" class="articulo"><h4>Articulo Vigesimo</h4></div>
+                </div>
+                <div id="titulo3-suspension_asociado" class="titulo">
+                    <h3>Titulo III <small>Suspensión, Exclusión y perdida de la condición de asociado</small></h3>
+                    <div id="articulo21" class="articulo"><h4>Articulo Vigesimo Primero</h4></div>
+                    <div id="articulo22" class="articulo"><h4>Articulo Vigesimo Segundo</h4></div>
+                    <div id="articulo23" class="articulo"><h4>Articulo Vigesimo Tercero</h4></div>
+                    <div id="articulo24" class="articulo"><h4>Articulo Vigesimo Cuarto</h4></div>
+                </div>
+            </div>
+            <div id="seccion-tercera" class="seccion">
+                <h2 class="titulo-seccion">Sección Tercera <small>Organos de la asociación</small></h2>
+                <div>
+                    <div id="articulo25" class="articulo"><h4>Articulo Vigesimo Quinto</h4></div>
+                    <div id="articulo26" class="articulo"><h4>Articulo Vigesimo Sexto</h4></div>
+                </div>
+                <div id="titulo1-asamblea_general_asociados" class="titulo">
+                    <h3>Titulo I <small>Asamblea General de Asociados</small></h3>
+                    <div id="articulo27" class="articulo"><h4>Articulo Vigesimo Septimo</h4></div>
+                    <div id="articulo28" class="articulo"><h4>Articulo Vigesimo Octavo</h4></div>
+                    <div id="articulo29" class="articulo"><h4>Articulo Vigesimo Noveno</h4></div>
+                    <div id="articulo30" class="articulo"><h4>Articulo Trigesimo</h4></div>
+                    <div id="articulo31" class="articulo"><h4>Articulo Trigesimo Primero</h4></div>
+                    <div id="articulo32" class="articulo"><h4>Articulo Trigesimo Segundo</h4></div>
+                    <div id="articulo33" class="articulo"><h4>Articulo Trigesimo Tercero</h4></div>
+                    <div id="articulo34" class="articulo"><h4>Articulo Trigesimo Cuarto</h4></div>
+                    <div id="articulo35" class="articulo"><h4>Articulo Trigesimo Quinto</h4></div>
+                    <div id="articulo36" class="articulo"><h4>Articulo Trigesimo Sexto</h4></div>
+                </div>
+                <div id="titulo2-consejo_directivo" class="titulo">
+                    <h3>Titulo II <small>Consejo Directivo</small></h3>
+                    <div id="articulo37" class="articulo"><h4>Articulo Trigesimo Septimo</h4></div>
+                    <div id="articulo38" class="articulo"><h4>Articulo Trigesimo Octavo</h4></div>
+                    <div id="articulo39" class="articulo"><h4>Articulo Trigesimo Noveno</h4></div>
+                    <div id="articulo40" class="articulo"><h4>Articulo Cuadragesimo</h4></div>
+                    <div id="articulo41" class="articulo"><h4>Articulo Cuadragesimo Primero</h4></div>
+                    <div id="articulo42" class="articulo"><h4>Articulo Cuadragesimo Segundo</h4></div>
+                    <div id="articulo43" class="articulo"><h4>Articulo Cuadragesimo Tercero</h4></div>
+                </div>
+                <div id="titulo3-disolucion" class="titulo">
+                    <h3>Titulo III <small>De la disolución</small></h3>
+                    <div id="articulo44" class="articulo"><h4>Articulo Cuadragesimo Cuarto</h4></div>
+                </div>
+            </div>
+            <div id="escaneados">
+                <h3>Hojas escaneadas del estatuto inscrito en registros públicos</h3>
+                <ul class="thumbnails">
+                    <li class="span2">
+                        <a href="images/estatuto/01.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb01.jpg" alt="estatuto apesol 01">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/02.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb02.jpg" alt="estatuto apesol 02">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/03.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb03.jpg" alt="estatuto apesol 03">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/04.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb04.jpg" alt="estatuto apesol 04">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/05.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb05.jpg" alt="estatuto apesol 05">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/06.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb06.jpg" alt="estatuto apesol 06">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/07.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb07.jpg" alt="estatuto apesol 07">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/08.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb08.jpg" alt="estatuto apesol 08">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/09.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb09.jpg" alt="estatuto apesol 09">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/10.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb10.jpg" alt="estatuto apesol 10">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/11.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb11.jpg" alt="estatuto apesol 11">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/12.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb12.jpg" alt="estatuto apesol 12">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/13.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb13.jpg" alt="estatuto apesol 13">
+                        </a>
+                    </li>
+                    <li class="span2">
+                        <a href="images/estatuto/14.jpg" target="_blank" class="thumbnail">
+                            <img src="images/estatuto/thumb14.jpg" alt="estatuto apesol 14">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </section>
     </div>
-    <div id="seccion-segunda" class="seccion">
-        <h2 class="titulo-seccion">Sección Segunda <small>De los asociados</small></h2>
-        <div id="titulo1-los_asociados" class="titulo">
-            <h3>Titulo I <small>Los asociados: sus deberes y derechos</small> </h3>
-            <div id="articulo11" class="articulo"><h4>Articulo Decimo primero</h4></div>
-            <div id="articulo12" class="articulo"><h4>Articulo Decimo Segundo</h4></div>
-            <div id="articulo13" class="articulo"><h4>Articulo Decimo Tercero</h4></div>
-            <div id="articulo14" class="articulo"><h4>Articulo Decimo Cuarto</h4></div>
-            <div id="articulo15" class="articulo"><h4>Articulo Decimo Quinto</h4></div>
+  </section>
+  <footer class="container-fluid">
+      <div class="row-fluid">
+        <div class="derechos">
+            <strong>&copy;Asociación Peruana de Software Libre y Código Abierto</strong> - APESOL. 2003 - 2013
         </div>
-        <div id="titulo2-aportaciones_asociados" class="titulo">
-            <h3>Titulo II <small>Aportaciones de los Asociados</small></h3>
-            <div id="articulo16" class="articulo"><h4>Articulo Decimo Sexto</h4></div>
-            <div id="articulo17" class="articulo"><h4>Articulo Decimo Septimo</h4></div>
-            <div id="articulo18" class="articulo"><h4>Articulo Decimo Octavo</h4></div>
-            <div id="articulo19" class="articulo"><h4>Articulo Decimo Noveno</h4></div>
-            <div id="articulo20" class="articulo"><h4>Articulo Vigesimo</h4></div>
-        </div>
-        <div id="titulo3-suspension_asociado" class="titulo">
-            <h3>Titulo III <small>Suspensión, Exclusión y perdida de la condicion de asociado</small></h3>
-            <div id="articulo21" class="articulo"><h4>Articulo Vigesimo Primero</h4></div>
-            <div id="articulo22" class="articulo"><h4>Articulo Vigesimo Segundo</h4></div>
-            <div id="articulo23" class="articulo"><h4>Articulo Vigesimo Tercero</h4></div>
-            <div id="articulo24" class="articulo"><h4>Articulo Vigesimo Cuarto</h4></div>
-        </div>
-    </div>
-    <div id="seccion-tercera" class="seccion">
-        <h2 class="titulo-seccion">Sección Tercera <small>Organos de la asociación</small></h2>
-        <div>
-        	<div id="articulo25" class="articulo"><h4>Articulo Vigesimo Quinto</h4></div>
-            <div id="articulo26" class="articulo"><h4>Articulo Vigesimo Sexto</h4></div>
-        </div>
-        <div id="titulo1-asamblea_general_asociados" class="titulo">
-            <h3>Titulo I <small>Asamblea General de Asociados</small></h3>
-            <div id="articulo27" class="articulo"><h4>Articulo Vigesimo Septimo</h4></div>
-            <div id="articulo28" class="articulo"><h4>Articulo Vigesimo Octavo</h4></div>
-            <div id="articulo29" class="articulo"><h4>Articulo Vigesimo Noveno</h4></div>
-            <div id="articulo30" class="articulo"><h4>Articulo Trigesimo</h4></div>
-            <div id="articulo31" class="articulo"><h4>Articulo Trigesimo Primero</h4></div>
-            <div id="articulo32" class="articulo"><h4>Articulo Trigesimo Segundo</h4></div>
-            <div id="articulo33" class="articulo"><h4>Articulo Trigesimo Tercero</h4></div>
-            <div id="articulo34" class="articulo"><h4>Articulo Trigesimo Cuarto</h4></div>
-            <div id="articulo35" class="articulo"><h4>Articulo Trigesimo Quinto</h4></div>
-            <div id="articulo36" class="articulo"><h4>Articulo Trigesimo Sexto</h4></div>
-        </div>
-        <div id="titulo2-consejo_directivo" class="titulo">
-            <h3>Titulo II <small>Consejo Directivo</small></h3>
-            <div id="articulo37" class="articulo"><h4>Articulo Trigesimo Septimo</h4></div>
-            <div id="articulo38" class="articulo"><h4>Articulo Trigesimo Octavo</h4></div>
-            <div id="articulo39" class="articulo"><h4>Articulo Trigesimo Noveno</h4></div>
-            <div id="articulo40" class="articulo"><h4>Articulo Cuadragesimo</h4></div>
-            <div id="articulo41" class="articulo"><h4>Articulo Cuadragesimo Primero</h4></div>
-            <div id="articulo42" class="articulo"><h4>Articulo Cuadragesimo Segundo</h4></div>
-            <div id="articulo43" class="articulo"><h4>Articulo Cuadragesimo Tercero</h4></div>
-        </div>
-        <div id="titulo3-disolucion" class="titulo">
-            <h3>Titulo III <small>De la disolución</small></h3>
-            <div id="articulo44" class="articulo"><h4>Articulo Cuadragesimo Cuarto</h4></div>
-        </div>
-    </div>
+          <div class="humans pull-right">
+              <a href="humans.txt"><img src="images/humanstxt-isolated-blank.gif" alt="Humans.txt"></a>
+          </div>
+      </div>
+  </footer>
 </body>
 </html>

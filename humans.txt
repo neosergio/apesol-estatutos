@@ -1,0 +1,19 @@
+/* TEAM */
+UI/UX Developer: Sergio Infante
+Contact: rsinfante@gmail.com
+Twitter: @neosergio
+
+System Administrator: Walter Pabon
+Contact: wepabong@gmail.com
+Twitter: @wepabong
+
+/* THANKS */
+Presidente APESOL: Alfred Kobayashi
+Contact: hayoshi@gmail.com
+Twitter: @alfredkobayashi
+
+/* SITE */
+Last update: 2013/04/29
+Language: Spanish
+Doctype: HTML5
+Tools: Bootstrap, Sublime, GIMP
