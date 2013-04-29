@@ -1,7 +1,8 @@
 #titulo-estatuto h1 { text-transform:uppercase; font-size: 1.5em; text-align: center; text-decoration: underline;}
 .titulo-seccion { text-transform: uppercase; }
 .titulo { text-transform: uppercase; }
-.articulo h4 {text-transform: uppercase;}
+.articulo h4 { text-transform: uppercase;}
+.articulo ol { list-style: lower-alpha; }
 
 @media (max-width: 767px) {
   .affix {
