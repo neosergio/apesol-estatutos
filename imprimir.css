@@ -1,0 +1,7 @@
+aside { display: none; }
+#escaneados { display: none; }
+footer { display: none; }
+.salto { page-break-before: always; }
+.titulo { text-align: center; }
+.titulo small { display: block; }
+.titulo-seccion {text-align: center;}

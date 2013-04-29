@@ -1,6 +1,6 @@
 #titulo-estatuto h1 { text-transform:uppercase; font-size: 1.5em; text-align: center; text-decoration: underline;}
-.titulo-seccion h2 { text-transform: uppercase; }
-.titulo h3 { text-transform: uppercase; }
+.titulo-seccion { text-transform: uppercase; }
+.titulo { text-transform: uppercase; }
 .articulo h4 {text-transform: uppercase;}
 
 @media (max-width: 767px) {
