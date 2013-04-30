@@ -1,4 +1,4 @@
-.. header::
+﻿.. header::
 	ESTATUTO DE LA ASOCIACION CIVIL  ASOCIACIÓN PERUANA DE SOFTWARE LIBRE Y CODIGO ABIERTO - APESOL
 
 ==================
@@ -28,25 +28,25 @@ DEL OBJETO Y FINES
 
 **ARTÍCULO QUINTO.-** Los fines de la Asociación Peruana de Software Libre y Código Abierto son los siguientes: 
 
-a) Promover el desarrollo tecnológico basado en Software Libre mediante campañas de difusión, educativas y culturales a través de los diversos medios a que acceda;
-b) Apoyar a las personas Naturales o Jurídicas de menores recursos o de reconocida labor social en el acceso a la Tecnología de Información, así como canalizar recursos y donaciones a instituciones sociales y a las actividades, programas y proyectos a cargo de la Asociación;
-c) Brindar Servicios a los asociados con proyección a la comunidad a través de los medios a los que tenga acceso;
+a) Promover el desarrollo tecnológico basado en Software Libre mediante campañas de difusión, educativas y culturales a través de los diversos medios a que acceda.
+b) Apoyar a las personas Naturales o Jurídicas de menores recursos o de reconocida labor social en el acceso a la Tecnología de Información, así como canalizar recursos y donaciones a instituciones sociales y a las actividades, programas y proyectos a cargo de la Asociación.
+c) Brindar Servicios a los asociados con proyección a la comunidad a través de los medios a los que tenga acceso.
 d) Fomentar una sólida, abierta y democrática comunidad de usuarios, desarrolladores y activistas promoviendo el desarrollo personal y profesional de sus asociados.
 
 Para el cumplimiento de estos fines la Asociación realizará las actividades siguientes: 
 
-a) Promover, organizar, coordinar, apoyar y dirigir programas y proyectos de campañas de difusión y educación en Tecnologías de Información basados en Software Libre;
-b) Fomentar, impulsar, coordinar y ejecutar la construcción y puesta en funcionamiento de centros de promoción tecnológica a nivel nacional;
-c) Impulsar programas. concursos y certámenes para el auspicio, subvención total o parcial de obras, exposiciones, ediciones y publicaciones tecnológicas como una oportunidad para cumplir con los fines de la asociación;
-d) Realizar, fomentar y fortalecer el apoyo de especialistas y en general de personas naturales y/o jurídicas en acciones para la difusión y educación relacionados con Software Libre;
-e) Realizar actividades y convocar la participación y colaboración de los sectores público y privado para el apoyo de las Actividades de la Asociación Peruana de Software Libre y Código Abierto;
-f)Coordinar, fomentar y organizar seminarios, conferencias, talleres y eventos para el intercambio y difusión de conocimientos y experiencias;
-g) Canalizar recursos donados por personas naturales o jurídicas, para el cumplimiento del objeto y fines de la Asociación, siempre que no generen lucro alguno para la institución;
-h) Brindar apoyo y asesoría a instituciones sin fines de lucro;
-i) Promover actividades de carácter social, cultural, institucionales, que les permitan captar fondos que se usarán exclusivamente para la realización de sus fines;
+a) Promover, organizar, coordinar, apoyar y dirigir programas y proyectos de campañas de difusión y educación en Tecnologías de Información basados en Software Libre.
+b) Fomentar, impulsar, coordinar y ejecutar la construcción y puesta en funcionamiento de centros de promoción tecnológica a nivel nacional.
+c) Impulsar programas. concursos y certámenes para el auspicio, subvención total o parcial de obras, exposiciones, ediciones y publicaciones tecnológicas como una oportunidad para cumplir con los fines de la asociación.
+d) Realizar, fomentar y fortalecer el apoyo de especialistas y en general de personas naturales y/o jurídicas en acciones para la difusión y educación relacionados con Software Libre.
+e) Realizar actividades y convocar la participación y colaboración de los sectores público y privado para el apoyo de las Actividades de la Asociación Peruana de Software Libre y Código Abierto.
+f)Coordinar, fomentar y organizar seminarios, conferencias, talleres y eventos para el intercambio y difusión de conocimientos y experiencias.
+g) Canalizar recursos donados por personas naturales o jurídicas, para el cumplimiento del objeto y fines de la Asociación, siempre que no generen lucro alguno para la institución.
+h) Brindar apoyo y asesoría a instituciones sin fines de lucro.
+i) Promover actividades de carácter social, cultural, institucionales, que les permitan captar fondos que se usarán exclusivamente para la realización de sus fines.
 j) Las demás que determine la Asamblea General, siempre que no se opongan al presente Estatuto, leyes y reglamentos.
 
-**ARTÍCULO SEXTO.-** Para el cumplimiento de sus fines la Asociación podrá ínteractuar y cooperar con entidades que tengan propósitos afines y, en general desarrollar todas las actividades conducentes a la realización de los fines indicados en el artículo precedente. Asimismo, para la realización de sus actividades podrá realizar toda clase de convenios, contratos y actos jurídicos que le permitan contar con recursos e ingresos que serán destinados a satisfacer ampliamente sus objetivos. 
+**ARTÍCULO SEXTO.-** Para el cumplimiento de sus fines la Asociación podrá interactuar y cooperar con entidades que tengan propósitos afines y, en general desarrollar todas las actividades conducentes a la realización de los fines indicados en el artículo precedente. Asimismo, para la realización de sus actividades podrá realizar toda clase de convenios, contratos y actos jurídicos que le permitan contar con recursos e ingresos que serán destinados a satisfacer ampliamente sus objetivos. 
 
 TITULO III
 ----------
@@ -76,10 +76,10 @@ TITULO I
 LOS ASOCIADOS: SUS DEBERES Y DERECHOS
 -------------------------------------
 
-**ARTÍCULO DECIMO PRIMERO.-** La Asociación tendrá tres clases de Asociados : 
+**ARTÍCULO DECIMO PRIMERO.-** La Asociación tendrá tres clases de Asociados: 
 
 a) Fundadores, que son aquellos que suscriben el acta de constitución de la Asociación. 
-b) Activos, los aceptados por el Consejo Directivo de la Asociación, con voz y voto en la Asamblea General 
+b) Activos, los aceptados por el Consejo Directivo de la Asociación, con voz y voto en la Asamblea General.
 c) Honorarios, aquellas personas naturales o jurídicas que por su contribución, apoyo y respaldo a la Asociación o a sus fines sean designados como tales por la Asamblea General de Asociados.
 
 Para el ingreso de nuevos asociados el interesado requiere presentar una carta dirigida al Consejo Directivo con el respaldo de por lo menos dos asociados hábiles, cuya admisión deberá ser aceptada con el voto aprobatorio de por lo menos mayoría simple de los miembros de la Asamblea.
@@ -151,10 +151,10 @@ De aprobarse la exclusión de alguno de los asociados. éste podrá apelar ante 
 
 **ARTÍCULO VIGESIMO TERCERO.-** El Consejo Directivo podrá aplicar sanciones a los Asociados que incumplan con sus obligaciones, escuchando previamente los descargos del presunto infractor. Las sanciones serán aplicadas en proporción a las faltas cometidas. El Consejo Directivo elaborará un reglamento de sanciones para aprobación de la Asamblea. 
 
-**ARTICULO VIGESIMO CUARTO.-** Termina además la condición de asociado : 
+**ARTICULO VIGESIMO CUARTO.-** Termina además la condición de asociado: 
 a) Por incapacidad declarada judicialmente. 
 b) Por exclusión. 
-c) Por disolución de la Asociación 
+c) Por disolución de la Asociación.
 d) Por fallecimiento. 
 
 SECCION TERCERA
@@ -240,26 +240,26 @@ Podrán ser elegidos para integrar el Consejo Directivo todos los asociados acti
 a) Cumplir y hacer cumplir el Estatuto. 
 b) Convocar, mediante su Presidente a Asambleas Generales ordinarias y extraordinarias. 
 c) Elaborar el proyecto de presupuesto anual y balances correspondientes. 
-d) Estudiar detenidamente todas las cuestiones en las que tenga ingerencia o interés la Asociación. 
+d) Estudiar detenidamente todas las cuestiones en las que tenga injerencia o interés la Asociación. 
 e) Administrar celosamente los bienes de la Asociación. 
 f) Aprobar el temario de los asuntos a tratarse en las Asambleas Generales. 
 g) Dirigir la marcha económica y social de la Asociación. 
 h) Nombrar las comisiones que sean necesarias para que colaboren con la buena marcha de la Asociación. 
-i) Celebrar toda clase de contratos y actos sin limitación alguna; así como aprobar la contratación de personai 
+i) Celebrar toda clase de contratos y actos sin limitación alguna; así como aprobar la contratación de personal.
 j) Contraer obligaciones, adquirir y disponer los bienes derechos de la Asociación, pudiendo consecuentemente enajenarlos, gravarlos, hipotecarlos, darlos en prenda, gozando para el efecto de facultad concedida por el artículo 1633 del Código Civil. 
 k) Imponer fondos en cuentas corrientes, girar cheques contra tales fondos, bien contra cuentas previstas de ellas o contra créditos en cuentas corrientes, así como endosar cheques y aceptar letras. 
 I) Imponer fondos en cuentas corrientes, de ahorros y retirarlos cuando estime conveniente. 
 m) Imponer y retirar cuentas a plazo.
 
 **ARTÍCULO CUADRAGESIMO.-** Atribuciones y funciones del Consejo Directivo: 
-a) Establecer la estructura institucional y las políticas para el cumplimiento de la misión y los objetivos de la Asociación 
+a) Establecer la estructura institucional y las políticas para el cumplimiento de la misión y los objetivos de la Asociación.
 b) Proponer a la Asamblea la incorporación de nuevos asociados, tanto activos como honorarios
 c) Evaluar y elevar a la Asamblea Ordinaria el Plan Estratégico y el Presupuesto Anual de la Institución. 
-d) Proponer a la Asamblea la venta, arrendamiento o hipoteca de los inmuebles de la Asociación 
-e) Deciden la formación, continuación, abandono o transacción de procedimientos judiciales
+d) Proponer a la Asamblea la venta, arrendamiento o hipoteca de los inmuebles de la Asociación.
+e) Deciden la formación, continuación, abandono o transacción de procedimientos judiciales.
 f) Designan asesores eventuales o permanentes
-g) Otorgan poderes para abrir y operar cuentas bancarias a nombre de la Asociación
-h) Conceden licencia a los miembros del Consejo que lo soliciten y designan al encargado de sus funciones; 
+g) Otorgan poderes para abrir y operar cuentas bancarias a nombre de la Asociación.
+h) Conceden licencia a los miembros del Consejo que lo soliciten y designan al encargado de sus funciones.
 i) Otras funciones que le confiera la Asamblea General o se desprendan de la Ley o del presente Estatuto. 
 
 DEL PRESIDENTE DEL CONSEJO DIRECTIVO
@@ -267,7 +267,7 @@ DEL PRESIDENTE DEL CONSEJO DIRECTIVO
 **ARTÍCULO CUADRAGESIMO PRIMERO.-** El Presidente del Consejo es el Representante legal de la institución; ejerce las funciones siguientes: 
 
 a) Prepara la agenda y dirige las Asambleas.
-b) Representa legalmente a la Asociación Peruana de Software Libre y Código Abierto ante toda clase de autoridades judiciales y administrativas y de organismos privados, contando con todos los poderes que fueren menester para una representación integral ante las autoridades correspondientes; podrá representar a la Asociación ante toda clase de autoridades políticas, administrativas, fiscales, municipales, militares, policiales, laborales, judiciales actuando con las facultades generales del mandato y las especiales para el cumplimiento de los fines de la Asociación a que se refieren los artículos 74 y 75 del Código Procesal Civil, así como representar a la Asociación en cualquier acto judicial, pudiendo interponer toda clase de demandas y solicitudes, proponer reconvenciones; contesta demandas y las reconvenciones interpuestas; podrá desistirse del proceso de la pretensión; allanarse o reconocer la demanda, prestar declaración de parte, confesar; reconocer documentos; concurrir a las audiencias de conciliación, de saneamiento y de pruebas; conciliar; transigir, solicitar pruebas anticipadas y medidas cautelares antes del juicio; ofrecer contra cautela bajo la modalidad de caución juratoria; formula ofrecimiento de pago y efectuar consignaciones judiciales; intervenir como terceros en los procesos judiciales en donde la Asociación tenga una relación jurídica con las partes; propone excepciones y defensas previas, deducir nulidades de los actos procésales; formular recusaciones y cuestionamientos de la competencia; solicitar la interrupción, suspensión y abandono del proceso; tramitar e intervenir en las actuaciones judiciales de los exhortos: solicitar la acumulación de procesos; interponer los recursos impugnatorios de reposición, apelación, casación y queja; formular tachas y oposiciones: formula denuncia civil; solicitar embargos que sean en forma de depósito y secuestro, de inscripción, de administración, de retención; de intervención, de recaudación y de intervención en información y solicitar el uso de la palabra e informar en Juzgados y Cortes. Renuncia al fuero de su domicilio.
+b) Representa legalmente a la Asociación Peruana de Software Libre y Código Abierto ante toda clase de autoridades judiciales y administrativas y de organismos privados, contando con todos los poderes que fueren menester para una representación integral ante las autoridades correspondientes; podrá representar a la Asociación ante toda clase de autoridades políticas, administrativas, fiscales, municipales, militares, policiales, laborales, judiciales actuando con las facultades generales del mandato y las especiales para el cumplimiento de los fines de la Asociación a que se refieren los artículos 74 y 75 del Código Procesal Civil, así como representar a la Asociación en cualquier acto judicial, pudiendo interponer toda clase de demandas y solicitudes, proponer reconvenciones; contesta demandas y las reconvenciones interpuestas; podrá desistir se del proceso de la pretensión; allanarse o reconocer la demanda, prestar declaración de parte, confesar; reconocer documentos; concurrir a las audiencias de conciliación, de saneamiento y de pruebas; conciliar; transigir, solicitar pruebas anticipadas y medidas cautelares antes del juicio; ofrecer contra cautela bajo la modalidad de caución juratoria; formula ofrecimiento de pago y efectuar consignaciones judiciales; intervenir como terceros en los procesos judiciales en donde la Asociación tenga una relación jurídica con las partes; propone excepciones y defensas previas, deducir nulidades de los actos procésales; formular recusaciones y cuestionamientos de la competencia; solicitar la interrupción, suspensión y abandono del proceso; tramitar e intervenir en las actuaciones judiciales de los exhortos: solicitar la acumulación de procesos; interponer los recursos impugnatorios de reposición, apelación, casación y queja; formular tachas y oposiciones: formula denuncia civil; solicitar embargos que sean en forma de depósito y secuestro, de inscripción, de administración, de retención; de intervención, de recaudación y de intervención en información y solicitar el uso de la palabra e informar en Juzgados y Cortes. Renuncia al fuero de su domicilio.
 c) Rinde cuentas a la Asamblea General sobre la marcha de la institución y cumplimiento de los planes y proyectos de la Asociación
 d) Administrar la institución, incluyendo el control del personal contratado y a la fiscalización de los bienes; 
 e) Contratar y destituir a los profesionales y empleados de toda clase, fijando sus sueldos y remuneraciones, así como determinando su jerarquía, dando cuenta al Consejo Directivo; 
