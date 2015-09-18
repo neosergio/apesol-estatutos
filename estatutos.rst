@@ -143,7 +143,7 @@ En caso se acepte su renuncia por encontrarse al día en sus obligaciones, el Co
 
 En el caso de muerte del asociado. no se transmitirá su condición de asociado a sus sucesores.
 
-**ARTICULO VIGESIMO SEGUNDO.-** El Consejo Directivo podrá decidir la suspensión de un asociado que se encuentra en retraso respecto de sus obligaciones en mas de tres aportaciones. Esta facultad será discrecional del Consejo Directivo, pudiendo permanecer como asociado hábil aquel que no obstante no aportar sus cuotas por causas justificadas. colabore activamente en el cumplimiento y fines de la asociación.
+**ARTICULO VIGESIMO SEGUNDO.-** El Consejo Directivo podrá decidir la suspensión de un asociado que se encuentra en retraso respecto de sus obligaciones en más de tres aportaciones. Esta facultad será discrecional del Consejo Directivo, pudiendo permanecer como asociado hábil aquel que no obstante no aportar sus cuotas por causas justificadas. colabore activamente en el cumplimiento y fines de la asociación.
 
 El Consejo Directivo podrá decidir la exclusión de un asociado cuando éste no cumpla con pagar seis cuotas a la asociación, consecutivas o alternadas, o cuando realice actos contrarios a los fines e intereses de a asociación o cuando el asociado incumpla este Estatuto y sus Reglamentos en forma reiterada, incurra en actos delictuosos de pública notoriedad, aunque no hubiere recaído sobre él acción judicial.
 
