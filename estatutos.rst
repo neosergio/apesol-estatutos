@@ -35,16 +35,16 @@ d) Fomentar una sólida, abierta y democrática comunidad de usuarios, desarroll
 
 Para el cumplimiento de estos fines la Asociación realizará las actividades siguientes: 
 
-a) Promover, organizar, coordinar, apoyar y dirigir programas y proyectos de campañas de difusión y educación en Tecnologías de Información basados en Software Libre.
-b) Fomentar, impulsar, coordinar y ejecutar la construcción y puesta en funcionamiento de centros de promoción tecnológica a nivel nacional.
-c) Impulsar programas. concursos y certámenes para el auspicio, subvención total o parcial de obras, exposiciones, ediciones y publicaciones tecnológicas como una oportunidad para cumplir con los fines de la asociación.
-d) Realizar, fomentar y fortalecer el apoyo de especialistas y en general de personas naturales y/o jurídicas en acciones para la difusión y educación relacionados con Software Libre.
-e) Realizar actividades y convocar la participación y colaboración de los sectores público y privado para el apoyo de las Actividades de la Asociación Peruana de Software Libre y Código Abierto.
-f)Coordinar, fomentar y organizar seminarios, conferencias, talleres y eventos para el intercambio y difusión de conocimientos y experiencias.
-g) Canalizar recursos donados por personas naturales o jurídicas, para el cumplimiento del objeto y fines de la Asociación, siempre que no generen lucro alguno para la institución.
-h) Brindar apoyo y asesoría a instituciones sin fines de lucro.
-i) Promover actividades de carácter social, cultural, institucionales, que les permitan captar fondos que se usarán exclusivamente para la realización de sus fines.
-j) Las demás que determine la Asamblea General, siempre que no se opongan al presente Estatuto, leyes y reglamentos.
+1. Promover, organizar, coordinar, apoyar y dirigir programas y proyectos de campañas de difusión y educación en Tecnologías de Información basados en Software Libre.
+2. Fomentar, impulsar, coordinar y ejecutar la construcción y puesta en funcionamiento de centros de promoción tecnológica a nivel nacional.
+3. Impulsar programas. concursos y certámenes para el auspicio, subvención total o parcial de obras, exposiciones, ediciones y publicaciones tecnológicas como una oportunidad para cumplir con los fines de la asociación.
+4. Realizar, fomentar y fortalecer el apoyo de especialistas y en general de personas naturales y/o jurídicas en acciones para la difusión y educación relacionados con Software Libre.
+5. Realizar actividades y convocar la participación y colaboración de los sectores público y privado para el apoyo de las Actividades de la Asociación Peruana de Software Libre y Código Abierto.
+6. Coordinar, fomentar y organizar seminarios, conferencias, talleres y eventos para el intercambio y difusión de conocimientos y experiencias.
+7. Canalizar recursos donados por personas naturales o jurídicas, para el cumplimiento del objeto y fines de la Asociación, siempre que no generen lucro alguno para la institución.
+8. Brindar apoyo y asesoría a instituciones sin fines de lucro.
+9. Promover actividades de carácter social, cultural, institucionales, que les permitan captar fondos que se usarán exclusivamente para la realización de sus fines.
+10. Las demás que determine la Asamblea General, siempre que no se opongan al presente Estatuto, leyes y reglamentos.
 
 **ARTÍCULO SEXTO.-** Para el cumplimiento de sus fines la Asociación podrá interactuar y cooperar con entidades que tengan propósitos afines y, en general desarrollar todas las actividades conducentes a la realización de los fines indicados en el artículo precedente. Asimismo, para la realización de sus actividades podrá realizar toda clase de convenios, contratos y actos jurídicos que le permitan contar con recursos e ingresos que serán destinados a satisfacer ampliamente sus objetivos. 
 
