@@ -235,32 +235,37 @@ Las funciones de los miembros del Consejo Directivo se establecerán en el Regla
 
 Podrán ser elegidos para integrar el Consejo Directivo todos los asociados activos que estén hábiles para participar en la Asamblea General de Asociados.
 
-**ARTICULO TRIGESIMO NOVENO.-** Son atribuciones del Consejo Directivo:
+**ARTICULO TRIGESIMO NOVENO.-**
 
-a) Cumplir y hacer cumplir el Estatuto. 
-b) Convocar, mediante su Presidente a Asambleas Generales ordinarias y extraordinarias. 
-c) Elaborar el proyecto de presupuesto anual y balances correspondientes. 
-d) Estudiar detenidamente todas las cuestiones en las que tenga injerencia o interés la Asociación. 
-e) Administrar celosamente los bienes de la Asociación. 
-f) Aprobar el temario de los asuntos a tratarse en las Asambleas Generales. 
-g) Dirigir la marcha económica y social de la Asociación. 
-h) Nombrar las comisiones que sean necesarias para que colaboren con la buena marcha de la Asociación. 
-i) Celebrar toda clase de contratos y actos sin limitación alguna; así como aprobar la contratación de personal.
-j) Contraer obligaciones, adquirir y disponer los bienes derechos de la Asociación, pudiendo consecuentemente enajenarlos, gravarlos, hipotecarlos, darlos en prenda, gozando para el efecto de facultad concedida por el artículo 1633 del Código Civil. 
-k) Imponer fondos en cuentas corrientes, girar cheques contra tales fondos, bien contra cuentas previstas de ellas o contra créditos en cuentas corrientes, así como endosar cheques y aceptar letras. 
-I) Imponer fondos en cuentas corrientes, de ahorros y retirarlos cuando estime conveniente. 
-m) Imponer y retirar cuentas a plazo.
+Son atribuciones del Consejo Directivo:
 
-**ARTÍCULO CUADRAGESIMO.-** Atribuciones y funciones del Consejo Directivo: 
-a) Establecer la estructura institucional y las políticas para el cumplimiento de la misión y los objetivos de la Asociación.
-b) Proponer a la Asamblea la incorporación de nuevos asociados, tanto activos como honorarios
-c) Evaluar y elevar a la Asamblea Ordinaria el Plan Estratégico y el Presupuesto Anual de la Institución. 
-d) Proponer a la Asamblea la venta, arrendamiento o hipoteca de los inmuebles de la Asociación.
-e) Deciden la formación, continuación, abandono o transacción de procedimientos judiciales.
-f) Designan asesores eventuales o permanentes
-g) Otorgan poderes para abrir y operar cuentas bancarias a nombre de la Asociación.
-h) Conceden licencia a los miembros del Consejo que lo soliciten y designan al encargado de sus funciones.
-i) Otras funciones que le confiera la Asamblea General o se desprendan de la Ley o del presente Estatuto. 
+1. Cumplir y hacer cumplir el Estatuto. 
+2. Convocar, mediante su Presidente a Asambleas Generales ordinarias y extraordinarias. 
+3. Elaborar el proyecto de presupuesto anual y balances correspondientes. 
+4. Estudiar detenidamente todas las cuestiones en las que tenga injerencia o interés la Asociación. 
+5. Administrar celosamente los bienes de la Asociación. 
+6. Aprobar el temario de los asuntos a tratarse en las Asambleas Generales. 
+7. Dirigir la marcha económica y social de la Asociación. 
+8. Nombrar las comisiones que sean necesarias para que colaboren con la buena marcha de la Asociación. 
+9. Celebrar toda clase de contratos y actos sin limitación alguna; así como aprobar la contratación de personal.
+10. Contraer obligaciones, adquirir y disponer los bienes derechos de la Asociación, pudiendo consecuentemente enajenarlos, gravarlos, hipotecarlos, darlos en prenda, gozando para el efecto de facultad concedida por el artículo 1633 del Código Civil. 
+11. Imponer fondos en cuentas corrientes, girar cheques contra tales fondos, bien contra cuentas previstas de ellas o contra créditos en cuentas corrientes, así como endosar cheques y aceptar letras. 
+12. Imponer fondos en cuentas corrientes, de ahorros y retirarlos cuando estime conveniente. 
+13. Imponer y retirar cuentas a plazo.
+
+**ARTÍCULO CUADRAGESIMO.-**
+
+Atribuciones y funciones del Consejo Directivo: 
+
+1. Establecer la estructura institucional y las políticas para el cumplimiento de la misión y los objetivos de la Asociación.
+2. Proponer a la Asamblea la incorporación de nuevos asociados, tanto activos como honorarios
+3. Evaluar y elevar a la Asamblea Ordinaria el Plan Estratégico y el Presupuesto Anual de la Institución. 
+4. Proponer a la Asamblea la venta, arrendamiento o hipoteca de los inmuebles de la Asociación.
+5. Deciden la formación, continuación, abandono o transacción de procedimientos judiciales.
+6. Designan asesores eventuales o permanentes
+7. Otorgan poderes para abrir y operar cuentas bancarias a nombre de la Asociación.
+8. Conceden licencia a los miembros del Consejo que lo soliciten y designan al encargado de sus funciones.
+9. Otras funciones que le confiera la Asamblea General o se desprendan de la Ley o del presente Estatuto. 
 
 DEL PRESIDENTE DEL CONSEJO DIRECTIVO
 
