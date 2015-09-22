@@ -35,16 +35,16 @@ d) Fomentar una sólida, abierta y democrática comunidad de usuarios, desarroll
 
 Para el cumplimiento de estos fines la Asociación realizará las actividades siguientes: 
 
-a) Promover, organizar, coordinar, apoyar y dirigir programas y proyectos de campañas de difusión y educación en Tecnologías de Información basados en Software Libre.
-b) Fomentar, impulsar, coordinar y ejecutar la construcción y puesta en funcionamiento de centros de promoción tecnológica a nivel nacional.
-c) Impulsar programas. concursos y certámenes para el auspicio, subvención total o parcial de obras, exposiciones, ediciones y publicaciones tecnológicas como una oportunidad para cumplir con los fines de la asociación.
-d) Realizar, fomentar y fortalecer el apoyo de especialistas y en general de personas naturales y/o jurídicas en acciones para la difusión y educación relacionados con Software Libre.
-e) Realizar actividades y convocar la participación y colaboración de los sectores público y privado para el apoyo de las Actividades de la Asociación Peruana de Software Libre y Código Abierto.
-f)Coordinar, fomentar y organizar seminarios, conferencias, talleres y eventos para el intercambio y difusión de conocimientos y experiencias.
-g) Canalizar recursos donados por personas naturales o jurídicas, para el cumplimiento del objeto y fines de la Asociación, siempre que no generen lucro alguno para la institución.
-h) Brindar apoyo y asesoría a instituciones sin fines de lucro.
-i) Promover actividades de carácter social, cultural, institucionales, que les permitan captar fondos que se usarán exclusivamente para la realización de sus fines.
-j) Las demás que determine la Asamblea General, siempre que no se opongan al presente Estatuto, leyes y reglamentos.
+1. Promover, organizar, coordinar, apoyar y dirigir programas y proyectos de campañas de difusión y educación en Tecnologías de Información basados en Software Libre.
+2. Fomentar, impulsar, coordinar y ejecutar la construcción y puesta en funcionamiento de centros de promoción tecnológica a nivel nacional.
+3. Impulsar programas. concursos y certámenes para el auspicio, subvención total o parcial de obras, exposiciones, ediciones y publicaciones tecnológicas como una oportunidad para cumplir con los fines de la asociación.
+4. Realizar, fomentar y fortalecer el apoyo de especialistas y en general de personas naturales y/o jurídicas en acciones para la difusión y educación relacionados con Software Libre.
+5. Realizar actividades y convocar la participación y colaboración de los sectores público y privado para el apoyo de las Actividades de la Asociación Peruana de Software Libre y Código Abierto.
+6. Coordinar, fomentar y organizar seminarios, conferencias, talleres y eventos para el intercambio y difusión de conocimientos y experiencias.
+7. Canalizar recursos donados por personas naturales o jurídicas, para el cumplimiento del objeto y fines de la Asociación, siempre que no generen lucro alguno para la institución.
+8. Brindar apoyo y asesoría a instituciones sin fines de lucro.
+9. Promover actividades de carácter social, cultural, institucionales, que les permitan captar fondos que se usarán exclusivamente para la realización de sus fines.
+10. Las demás que determine la Asamblea General, siempre que no se opongan al presente Estatuto, leyes y reglamentos.
 
 **ARTÍCULO SEXTO.-** Para el cumplimiento de sus fines la Asociación podrá interactuar y cooperar con entidades que tengan propósitos afines y, en general desarrollar todas las actividades conducentes a la realización de los fines indicados en el artículo precedente. Asimismo, para la realización de sus actividades podrá realizar toda clase de convenios, contratos y actos jurídicos que le permitan contar con recursos e ingresos que serán destinados a satisfacer ampliamente sus objetivos. 
 
@@ -235,32 +235,37 @@ Las funciones de los miembros del Consejo Directivo se establecerán en el Regla
 
 Podrán ser elegidos para integrar el Consejo Directivo todos los asociados activos que estén hábiles para participar en la Asamblea General de Asociados.
 
-**ARTICULO TRIGESIMO NOVENO.-** Son atribuciones del Consejo Directivo:
+**ARTICULO TRIGESIMO NOVENO.-**
 
-a) Cumplir y hacer cumplir el Estatuto. 
-b) Convocar, mediante su Presidente a Asambleas Generales ordinarias y extraordinarias. 
-c) Elaborar el proyecto de presupuesto anual y balances correspondientes. 
-d) Estudiar detenidamente todas las cuestiones en las que tenga injerencia o interés la Asociación. 
-e) Administrar celosamente los bienes de la Asociación. 
-f) Aprobar el temario de los asuntos a tratarse en las Asambleas Generales. 
-g) Dirigir la marcha económica y social de la Asociación. 
-h) Nombrar las comisiones que sean necesarias para que colaboren con la buena marcha de la Asociación. 
-i) Celebrar toda clase de contratos y actos sin limitación alguna; así como aprobar la contratación de personal.
-j) Contraer obligaciones, adquirir y disponer los bienes derechos de la Asociación, pudiendo consecuentemente enajenarlos, gravarlos, hipotecarlos, darlos en prenda, gozando para el efecto de facultad concedida por el artículo 1633 del Código Civil. 
-k) Imponer fondos en cuentas corrientes, girar cheques contra tales fondos, bien contra cuentas previstas de ellas o contra créditos en cuentas corrientes, así como endosar cheques y aceptar letras. 
-I) Imponer fondos en cuentas corrientes, de ahorros y retirarlos cuando estime conveniente. 
-m) Imponer y retirar cuentas a plazo.
+Son atribuciones del Consejo Directivo:
 
-**ARTÍCULO CUADRAGESIMO.-** Atribuciones y funciones del Consejo Directivo: 
-a) Establecer la estructura institucional y las políticas para el cumplimiento de la misión y los objetivos de la Asociación.
-b) Proponer a la Asamblea la incorporación de nuevos asociados, tanto activos como honorarios
-c) Evaluar y elevar a la Asamblea Ordinaria el Plan Estratégico y el Presupuesto Anual de la Institución. 
-d) Proponer a la Asamblea la venta, arrendamiento o hipoteca de los inmuebles de la Asociación.
-e) Deciden la formación, continuación, abandono o transacción de procedimientos judiciales.
-f) Designan asesores eventuales o permanentes
-g) Otorgan poderes para abrir y operar cuentas bancarias a nombre de la Asociación.
-h) Conceden licencia a los miembros del Consejo que lo soliciten y designan al encargado de sus funciones.
-i) Otras funciones que le confiera la Asamblea General o se desprendan de la Ley o del presente Estatuto. 
+1. Cumplir y hacer cumplir el Estatuto. 
+2. Convocar, mediante su Presidente a Asambleas Generales ordinarias y extraordinarias. 
+3. Elaborar el proyecto de presupuesto anual y balances correspondientes. 
+4. Estudiar detenidamente todas las cuestiones en las que tenga injerencia o interés la Asociación. 
+5. Administrar celosamente los bienes de la Asociación. 
+6. Aprobar el temario de los asuntos a tratarse en las Asambleas Generales. 
+7. Dirigir la marcha económica y social de la Asociación. 
+8. Nombrar las comisiones que sean necesarias para que colaboren con la buena marcha de la Asociación. 
+9. Celebrar toda clase de contratos y actos sin limitación alguna; así como aprobar la contratación de personal.
+10. Contraer obligaciones, adquirir y disponer los bienes derechos de la Asociación, pudiendo consecuentemente enajenarlos, gravarlos, hipotecarlos, darlos en prenda, gozando para el efecto de facultad concedida por el artículo 1633 del Código Civil. 
+11. Imponer fondos en cuentas corrientes, girar cheques contra tales fondos, bien contra cuentas previstas de ellas o contra créditos en cuentas corrientes, así como endosar cheques y aceptar letras. 
+12. Imponer fondos en cuentas corrientes, de ahorros y retirarlos cuando estime conveniente. 
+13. Imponer y retirar cuentas a plazo.
+
+**ARTÍCULO CUADRAGESIMO.-**
+
+Atribuciones y funciones del Consejo Directivo: 
+
+1. Establecer la estructura institucional y las políticas para el cumplimiento de la misión y los objetivos de la Asociación.
+2. Proponer a la Asamblea la incorporación de nuevos asociados, tanto activos como honorarios
+3. Evaluar y elevar a la Asamblea Ordinaria el Plan Estratégico y el Presupuesto Anual de la Institución. 
+4. Proponer a la Asamblea la venta, arrendamiento o hipoteca de los inmuebles de la Asociación.
+5. Deciden la formación, continuación, abandono o transacción de procedimientos judiciales.
+6. Designan asesores eventuales o permanentes
+7. Otorgan poderes para abrir y operar cuentas bancarias a nombre de la Asociación.
+8. Conceden licencia a los miembros del Consejo que lo soliciten y designan al encargado de sus funciones.
+9. Otras funciones que le confiera la Asamblea General o se desprendan de la Ley o del presente Estatuto. 
 
 DEL PRESIDENTE DEL CONSEJO DIRECTIVO
 
