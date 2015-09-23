@@ -10,7 +10,7 @@ SECCION PRIMERA
 
 TITULO I 
 --------
-LA ASOCIACION  DE LA DENOMINACIÓN, DURACIÓN Y DOMICILIO
+LA ASOCIACIÓN  DE LA DENOMINACIÓN, DURACIÓN Y DOMICILIO
 -------------------------------------------------------
 
 **ARTICULO PRIMERO.-** La Asociación no lucrativa con fines culturales Asociación Peruana de Software Libre y Código Abierto - Apesol pudiendo utilizar indistintamente la denominación abreviada "APESOL", es una persona jurídica de derecho privado que se rige por las normas pertinentes del derecho civil, por el presente Estatuto, por sus reglamentos internos, debidamente aprobados, y todas aquellas disposiciones legales que le fueren aplicables.
